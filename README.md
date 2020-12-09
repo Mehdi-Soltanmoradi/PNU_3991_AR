@@ -5,7 +5,8 @@
 - [حساب گیت هاب](https://github.com/sultanmoradimehdi)
 - [روزمه]( https://sultanmoradimehdi.github.io/resume/)
 - [SOP](https://sultanmoradimehdi.github.io/SOP/)
-- [JavaScript-course](https://sultanmoradimehdi.github.io/JavaScript-cource/)
+- [JavaScript-course](https://sultanmoradimehdi.github.io/Java-Certificate/)
+- [git](https://sultanmoradimehdi.github.io/account-git/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
