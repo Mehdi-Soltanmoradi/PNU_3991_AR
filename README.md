@@ -20,18 +20,23 @@
 ## درس کارشناسی 
 [1115133_01 شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
 <br>
+[آزمایشگاه پایگاه داده](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
+<br>
+[آزمایشگاه سیستم عامل](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
+<br>
+[آزمایشگاه فیزیک ۱](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
+<br>
+[شبکه های کامپیوتری](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
+<br>
+[سیستمهای اطلاعات مدیریت](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
+<br>
+[آزمایشگاه مدار منطقی](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
+<br>
+[فیزیک ۲](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
+<br>
 
 --------------
 ## روز و ساعت ارائه دروس
-
-- [آزمایشگاه پایگاه داده]
-آزمایشگاه مدارمنطقی
-شبکه های کامپیوتری
-آزمایشگاه سیستم عامل
-سیستمهای اطلاعات مدیریت
-آزمایشگاه فیزیک ۱
-فیزیک ۲
-شیوه ارایه مطالب علمی و فنی
 
 <table style="width:100%">
   <tr>
