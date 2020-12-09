@@ -6,7 +6,7 @@
 - [روزمه]( https://sultanmoradimehdi.github.io/resume/)
 - [SOP](https://sultanmoradimehdi.github.io/SOP/)
 - [JavaScript-course](java.pdf)
-- [git](https://sultanmoradimehdi.github.io/account-git/)
+- [git-patchwork](patchwork.png)
 
 ------------------
 ## گروه ها
