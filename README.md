@@ -12,7 +12,7 @@
 ## گروه ها
     
 RPM [_PRM-03_مهدی سلطانمرادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/03_%D9%85%D9%87%D8%AF%D9%8A%20%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A)
-RPM [_PRM-10_شقايق پژومان گلرورديان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/10_%D8%B4%D9%82%D8%A7%D9%8A%D9%82%20%D9%BE%DA%98%D9%88%D9%85%D8%A7%D9%86%20%DA%AF%D9%84%D8%B1%D9%88%D8%B1%D8%AF%D9%8A%D8%A7%D9%86) 
+ [_PRM-10_شقايق پژومان گلرورديان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/10_%D8%B4%D9%82%D8%A7%D9%8A%D9%82%20%D9%BE%DA%98%D9%88%D9%85%D8%A7%D9%86%20%DA%AF%D9%84%D8%B1%D9%88%D8%B1%D8%AF%D9%8A%D8%A7%D9%86) 
      
     
 -------------------
