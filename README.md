@@ -10,8 +10,8 @@
 - [HTML-course](HTML.pdf)
 ---
 - [ معرفی یک درس مشابه در دانشگاههای دیگر ](http://smbidoki.ir/crsdetail.php?crsid=41)
-- [روش پژوهش یک پایان نامه](https://atefehrastgoo.github.io/ThesisForMethodology.pdf)
-
+- [روش پژوهش پایان نامه یک](ThesisForMethodology.pdf)
+- [روش پژوهش پایان نامه دو](Dependability analysis and recovery support for smart grids.pdf)
 ------------------
 ## گروه ها
     
