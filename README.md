@@ -9,7 +9,7 @@
 - [git-patchwork](patchwork.png)
 - [HTML-course](HTML.pdf)
 ---
-- [ معرفی یک درس مشابه در دانشگاههای دیگر نمونه اول]
+- [ معرفی یک درس مشابه در دانشگاههای دیگر نمونه اول](http://smbidoki.ir/crsdetail.php?crsid=41)
 - [روش پژوهش یک پایان نامه](https://atefehrastgoo.github.io/ThesisForMethodology.pdf)
 
 ------------------
