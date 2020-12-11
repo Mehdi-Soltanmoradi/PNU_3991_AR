@@ -8,11 +8,9 @@
 - [JavaScript-course](java.pdf)
 - [git-patchwork](patchwork.png)
 - [HTML-course](HTML.pdf)
+---
 - [ معرفی یک درس مشابه در دانشگاههای دیگر نمونه اول]
----
 - [روش پژوهش یک پایان نامه](https://atefehrastgoo.github.io/ThesisForMethodology.pdf)
----
-
 
 ------------------
 ## گروه ها
