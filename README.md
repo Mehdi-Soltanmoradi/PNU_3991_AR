@@ -11,7 +11,7 @@
 ---
 - [ معرفی یک درس مشابه در دانشگاههای دیگر ](http://smbidoki.ir/crsdetail.php?crsid=41)
 - [روش پژوهش پایان نامه یک](https://sultanmoradimehdi.github.io/Group-project/ThesisForMethodology.pdf)
-- [روش پژوهش پایان نامه دو](https://sultanmoradimehdi.github.io/Group-project/Dependability-analysis-and-recovery-support-for-smart-grids.pdf)
+- [روش پژوهش پایان نامه دو](https://sultanmoradimehdi.github.io/Group-project/Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
 ------------------
 ## گروه ها
     
