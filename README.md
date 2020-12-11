@@ -10,7 +10,7 @@
 - [HTML-course](HTML.pdf)
 ---
 - [ معرفی یک درس مشابه در دانشگاههای دیگر ](http://smbidoki.ir/crsdetail.php?crsid=41)
-- [روش پژوهش پایان نامه یک](ThesisForMethodology.pdf)
+- [روش پژوهش پایان نامه یک](https://smallpdf.com/shared#st=2385eb14-069f-4906-b463-a5b4edcaf2c6&fn=Dependability+analysis+and+recovery+support+for+smart+grids.pdf&ct=1607708345801&tl=share-document&rf=link)
 - [روش پژوهش پایان نامه دو](Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
 ------------------
 ## گروه ها
