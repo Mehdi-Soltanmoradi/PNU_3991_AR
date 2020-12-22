@@ -9,7 +9,7 @@
 - [git-patchwork](patchwork.png)
 - [HTML-course](HTML.pdf)
 ---
-### فعالیت گروهی
+## فعالیت گروهی
 
 - [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
 - [pepperdine معرفی درس مشابه در دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
