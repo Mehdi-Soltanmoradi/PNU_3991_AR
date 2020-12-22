@@ -5,7 +5,7 @@
 - [حساب گیت هاب](https://github.com/sultanmoradimehdi)
 - [روزمه]( https://sultanmoradimehdi.github.io/resume/)
 - [SOP](https://sultanmoradimehdi.github.io/SOP/)
-- [JavaScript-course](java.pdf)
+- [JavaScript-course](java.png)
 - [git-patchwork](patchwork.png)
 - [HTML-course](HTML.png)
 ---
