@@ -7,7 +7,7 @@
 - [SOP](https://sultanmoradimehdi.github.io/SOP/)
 - [JavaScript-course](java.pdf)
 - [git-patchwork](patchwork.png)
-- [HTML-course](HTML.pdf)
+- [HTML-course](HTML.png)
 ---
 ### فعالیت گروهی
 
