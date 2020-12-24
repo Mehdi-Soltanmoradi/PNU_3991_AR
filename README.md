@@ -2,12 +2,12 @@
 ---------
 # مهدی سلطانمرادی
  
-- [حساب گیت هاب](https://github.com/sultanmoradimehdi)
-- [روزمه]( https://sultanmoradimehdi.github.io/resume/)
+- [GitHub](https://github.com/sultanmoradimehdi)
+- [Resume]( https://sultanmoradimehdi.github.io/resume/)
 - [SOP](https://sultanmoradimehdi.github.io/SOP/)
-- [JavaScript-course](java.png)
+- [JavaScript.Certificates](java.png)
+- [HTML.Certificates](HTML.png)
 - [git-patchwork](patchwork.png)
-- [HTML-course](HTML.png)
 ---
 ### فعالیت گروهی
 
