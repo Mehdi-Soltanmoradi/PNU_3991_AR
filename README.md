@@ -7,6 +7,8 @@
 - [Resume]( https://sultanmoradimehdi.github.io/resume/)
 - [SOP](https://sultanmoradimehdi.github.io/SOP/)
 - [Assessment](https://github.com/sultanmoradimehdi/Assessment)
+- [ صفحه ۷ تا ۹ LaTex ](https://github.com/sultanmoradimehdi/LaTex/blob/main/Sultan.7-9.pdf)
+- [ Beamer ](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
 - [JavaScript.Certificates](java.png)
 - [HTML.Certificates](HTML.png)
 - [git-patchwork](patchwork.png)
