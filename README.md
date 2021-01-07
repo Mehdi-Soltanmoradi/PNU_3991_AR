@@ -17,8 +17,8 @@
 
 - [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
 - [pepperdine معرفی درس مشابه در دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
-- [روش پژوهش پایان نامه یک](https://sultanmoradimehdi.github.io/Group-project/ThesisForMethodology.pdf)
-- [روش پژوهش پایان نامه دو](https://sultanmoradimehdi.github.io/Group-project/Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
+- [روش پژوهش پایان نامه یک](https://github.com/sultanmoradimehdi/Group-project/blob/main/ThesisForMethodology.pdf)
+- [روش پژوهش پایان نامه دو](https://github.com/sultanmoradimehdi/Group-project/blob/main/Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
 - [ صفحه ۷ تا ۹ LaTex ](https://github.com/sultanmoradimehdi/LaTex/blob/main/Sultan.7-9.pdf)
 - [ Beamer ](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
 ------------------
