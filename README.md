@@ -13,6 +13,17 @@
 - [HTML.Certificates](HTML.png)
 - [git-patchwork](patchwork.png)
 ---
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس کارشناسی
+- [شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+------
+
 ### فعالیت گروهی
 
 - [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
@@ -35,7 +46,7 @@
 -------------------
 ## Winter Semester Courses 1399/2020
 
-## درس کارشناسی 
+## دروس کارشناسی 
 [1115133_01 شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)
 <br>
 [آزمایشگاه پایگاه داده](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
