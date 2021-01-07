@@ -36,7 +36,7 @@
 ## Winter Semester Courses 1399/2020
 
 ## درس کارشناسی 
-[1115133_01 شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
+[1115133_01 شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)
 <br>
 [آزمایشگاه پایگاه داده](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
 <br>
