@@ -4,7 +4,8 @@
 
 <a href="http://www.upsara.com/viewer.php?file=o877255_.png"><img src="http://www.upsara.com/images/o877255__thumb.png" border="0" alt="o877255_.png" title="o877255_.png" /></a>
 
-ارائه شده در دانشگاه 
+ارائه شده در دانشگاه
+
 Pepperdine | Seaver College
 
 Guidelines for Syllabi
