@@ -7,7 +7,7 @@
 ارائه شده در دانشگاه
 
 Pepperdine | Seaver College
-
+-------------------
 Guidelines for Syllabi
 
 1- Basic information about the instructor and course. Instructor's full name and title, office location and telephone number, office hours, home telephone number (optional), e-mail address, and the like information concerning teaching assistant(s). Course title/number/credits, class meeting times and place, catalog description, prerequisites for the course, students for whom the course is intended. Since some of these items cannot be known until the course is actually scheduled, you might simply leave a space for them in the syllabus by putting the item in parentheses. Thus: (office hours).
