@@ -18,7 +18,9 @@ Guidelines for Syllabi
 6- Methods of instruction. Description of and rationale for instructional techniques, description of class format (lecture, lecture/discussion, seminar, etc.).
 7- Feedback to students. Grading system, including quizzes/tests, papers, attendance, class participation, questions. Include policies on assignments/tests/makeups, policies on attendance/incompletes.
 8- Learning facilities and resources for students, for example writing laboratory.
+
 ---------------------------
+----------------------
 
 ## توضیحات مربوط به انتخاب موضوع پروژه های کوچک
 ### پروژه ی انتخاب شده: فروشگاه لباس با پی اچ پی
