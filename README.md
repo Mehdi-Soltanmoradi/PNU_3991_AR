@@ -17,11 +17,11 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](XX_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](MS_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](MS_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 ------
 
 ### فعالیت گروهی
