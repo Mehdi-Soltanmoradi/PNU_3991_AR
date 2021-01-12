@@ -30,8 +30,10 @@
 - [pepperdine معرفی درس مشابه در دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
 - [روش پژوهش پایان نامه یک](https://github.com/sultanmoradimehdi/Group-project/blob/main/ThesisForMethodology.pdf)
 - [روش پژوهش پایان نامه دو](https://github.com/sultanmoradimehdi/Group-project/blob/main/Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
-- [ صفحه ۷ تا ۹ LaTex ](https://github.com/sultanmoradimehdi/LaTex/blob/main/Sultan.7-9.pdf)
-- [ Beamer ](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
+- [ انتخاب موضوع پروطه های کوچک](https://github.com/sultanmoradimehdi/Group-project/blob/main/%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA%20%D9%85%D8%B1%D8%A8%D9%88%D8%B7%20%D8%A8%D9%87%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%85%D9%88%D8%B6%D9%88%D8%B9%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%87%D8%A7%DB%8C%20%DA%A9%D9%88%DA%86%DA%A9.pdf)
+- [ صفحه ۷ تا ۹ LaTex ارایه کتبی](https://github.com/sultanmoradimehdi/LaTex/blob/main/Sultan.7-9.pdf)
+- [ Beamer اسلاید](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
+- [ Beamer ارایه شفاهی](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
 ------------------
 ## گروه ها
     
