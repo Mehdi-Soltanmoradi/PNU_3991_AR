@@ -32,7 +32,7 @@
 - [روش پژوهش پایان نامه دو](https://github.com/sultanmoradimehdi/Group-project/blob/main/Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
 - [ انتخاب موضوع پروطه های کوچک](https://github.com/sultanmoradimehdi/Group-project/blob/main/%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA%20%D9%85%D8%B1%D8%A8%D9%88%D8%B7%20%D8%A8%D9%87%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%85%D9%88%D8%B6%D9%88%D8%B9%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%87%D8%A7%DB%8C%20%DA%A9%D9%88%DA%86%DA%A9.pdf)
 - [ صفحه ۷ تا ۹ LaTex ارایه کتبی](https://github.com/sultanmoradimehdi/LaTex/blob/main/Sultan.7-9.pdf)
-- [ Beamer اسلاید](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
+- [ Beamer ساخت اسلاید](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
 - [ Beamer ارایه شفاهی لاتک](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamervo.mp4)
 ------------------
 ## گروه ها
