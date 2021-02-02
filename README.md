@@ -42,12 +42,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
       * __[Lesson evaluation summary](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)__
       
 
-
-##  بخش دروس کارشناسی
-- [شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
-------
-
-### فعالیت گروهی
+### Group activity RPM
 
 - [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
 - [pepperdine معرفی درس مشابه در دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
@@ -58,7 +53,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 - [ Beamer ساخت اسلاید](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
 - [ Beamer ارایه شفاهی لاتک](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamervo.mp4)
 ------------------
-## گروه ها
+## Groups RPM
     
 1. RPM 
     1. [_BSc-03_مهدی سلطانمرادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/03_%D9%85%D9%87%D8%AF%D9%8A%20%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A)   
@@ -69,86 +64,22 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
     1. [_BSc-27_حسین زندیه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/27_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B2%D9%86%D8%AF%D9%8A%D9%87)
     
 -------------------
-## Winter Semester Courses 1399/2020
+## _ Semester Courses  1399/1400_
+ 
+|Course
+* _ResearchAndPresentationMethods_
+* _Bachelor Project_
 
-## دروس کارشناسی 
-[1115133_01 شیوه ارایه مطالب علمی و فنی](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)
-<br>
-[آزمایشگاه پایگاه داده](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
-<br>
-[آزمایشگاه سیستم عامل](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
-<br>
-[آزمایشگاه فیزیک ۱](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
-<br>
-[شبکه های کامپیوتری](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
-<br>
-[سیستمهای اطلاعات مدیریت](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
-<br>
-[آزمایشگاه مدار منطقی](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
-<br>
-[فیزیک ۲](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/technical-and-scientific-contents-presentation-aproach)
-<br>
+***
 
---------------
-## روز و ساعت ارائه دروس
+## _Day and hour of lessons_
 
-<table style="width:100%">
-  <tr>
-    <th >16-18</th>
-    <th >14-16</th>
-    <th >12-14</th>
-    <th>10-12</th>
-    <th>8-10</th>
-    <th>روز</th>
-  </tr>
-  <tr>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th ><a>شبکه های کامپیوتری 01-1115092</a></th>
-    <th>شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th>یک شنبه</th>
-  </tr>
-   <tr>
-     <th ></th>
-     <th ></th>
-     <th></th>
-     <th ><a>فیزیک ۲ 01-1113095</a></th>
-     <th ></th>
-    <th>دوشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th>سه شنبه</th>
- </tr>
-  <tr>
-   <th ></th>
-   <th ></th>
-   <th ></th>
-   <th ></th>
-   <th ></th>
-   <th>چهارشنبه</th>
- </tr>
- <tr>
-  <th ></th>
-  <th ></th>
-  <th ></th>
-  <th ><a>آزمایشگاه سیستم عامل 01-1115116</a></th>
-  <th ></th>
-  <th>پنجشنبه</th>
-  </tr>
-</table>
+|Course                                  |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
+|:--------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
+|__ResearchAndPresentationMethods__   :clock7: :clock8:|0 - 0|0 - 0|0 - 0|0 - 0  |:zzz:   |:zzz: |0 - 0 |
+|__Bachelor Project__   :clock9: :clock1:  |0 - 0 |0 - 0 |0 - 0 |0 - 0   |:zzz:   |:zzz: |0 - 0  |
+
+***
+__[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ :no_entry:
+<img src="https://github.com/m-ahmadian-hsultanmoradimehdi/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
+
