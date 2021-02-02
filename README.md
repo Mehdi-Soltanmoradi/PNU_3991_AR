@@ -4,7 +4,7 @@
 
 ## _PNU_3991_AR_ :wave:
 <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
-Summary of 7th semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering :computer:.
+Summary of last semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering :computer:.
 
 ***
 
@@ -16,17 +16,20 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * __[Repositories](https://github.com/sultanmoradimehdi?tab=repositories)__
       * __[PNU_3991_AR](https://github.com/sultanmoradimehdi/PNU_3991_AR)__
       
-- [PNU_3991_AR](https://github.com/sultanmoradimehdi/PNU_3991_AR)
-- [GitHub](https://github.com/sultanmoradimehdi)
-- [Resume]( https://sultanmoradimehdi.github.io/resume/)
-- [SOP](https://sultanmoradimehdi.github.io/SOP/)
-- [Assessment](https://github.com/sultanmoradimehdi/Assessment)
-- [ صفحه ۷ تا ۹ LaTex ](https://github.com/sultanmoradimehdi/LaTex/blob/main/Sultan.7-9.pdf)
-- [ Beamer ](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
-- [JavaScript.Certificates](java.png)
-- [HTML.Certificates](HTML.png)
-- [git-patchwork](patchwork.png)
----
+* __[ME](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)__ 
+   * __[Resume](https://sultanmoradimehdi.github.io/resume/)__
+   * __[SOP](https://sultanmoradimehdi.github.io/SOP/)__
+   * __[Beamer](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)__
+   * __[LaTex page 7 to 9](https://github.com/sultanmoradimehdi/LaTex/blob/main/Sultan.7-9.pdf)__
+   * __[Assessment](https://github.com/sultanmoradimehdi/Assessment)__
+   
+
+
+* __[Certificates](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/02.gif" align="right"  width="150" />
+   * [x] __[Jlord Patchwork](patchwork.png)__
+   * [x] ![HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](HTML.png)__
+   * [x] ![JS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](java.png)__
+   * [ ] ![python](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/php.logo.png)__python__ :soon:
 
 > ارزیابی ها
 
