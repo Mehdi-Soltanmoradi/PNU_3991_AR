@@ -83,5 +83,5 @@ Course
 __[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ 
 <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="150" />
 
-(www.linkedin.com/in/mehdi-sultanmoradi-31aa44170)__
+Linkedln (www.linkedin.com/in/mehdi-sultanmoradi-31aa44170)
 
