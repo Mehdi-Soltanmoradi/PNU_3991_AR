@@ -32,7 +32,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 
 * __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="150" />
    * __[Bachelor Project](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
-   * __[Method-of-presenting-scientific-and-technical-materials](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
+   * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
    
 * __[Evaluations](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Assessment)__ 
 
