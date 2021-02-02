@@ -81,5 +81,5 @@ Course
 
 ***
 __[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ :no_entry:
-<img src="https://github.com/m-ahmadian-hsultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="150" />
+<img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="150" />
 
