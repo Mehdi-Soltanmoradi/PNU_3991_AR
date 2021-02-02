@@ -80,8 +80,8 @@ Course
 |__Bachelor Project__   :clock9: :clock1:  |0 - 0 |0 - 0 |0 - 0 |0 - 0   |:zzz:   |:zzz: |0 - 0  |
 
 ***
-__[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ :no_entry:
+__[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ 
 <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="150" />
 
-__[Linkedln:](www.linkedin.com/in/mehdi-sultanmoradi-31aa44170)__
+(www.linkedin.com/in/mehdi-sultanmoradi-31aa44170)__
 
