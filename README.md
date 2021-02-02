@@ -81,10 +81,6 @@ Course
 
 ***
 __[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ :no_entry:
-<h1>شبکه‌های اجتماعی</h1>
-                        <div>
-                            <a target="_blank" rel="noopener nofollow" href="https://www.linkedin.com/in/mehdi-sultanmoradi-31aa44170/">
-                                <i class="large blue linkedin icon r-social"></i>
-                            </a>
+__[Linkedln: www.linkedin.com/in/mehdi-sultanmoradi-31aa44170](www.linkedin.com/in/mehdi-sultanmoradi-31aa44170)__ :no_entry:
 <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="150" />
 
