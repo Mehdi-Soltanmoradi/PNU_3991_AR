@@ -1,8 +1,8 @@
 ![banner](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/banner.gif)
 
-# _PNU_3991_AR_ :wave:
+## _PNU_3991_AR_ :wave:
 ---------
-# مهدی سلطانمرادی
+## مهدی سلطانمرادی
  
 - [PNU_3991_AR](https://github.com/sultanmoradimehdi/PNU_3991_AR)
 - [GitHub](https://github.com/sultanmoradimehdi)
