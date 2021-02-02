@@ -29,7 +29,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * [x] __[Jlord Patchwork](patchwork.png)__
    * [x] ![HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](HTML.png)__
    * [x] ![JS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](java.png)__
-   * [ ] ![python](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/php.logo.png)__python__ :soon:
+   * [ ] ![python](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/python.jpg)__python__ :soon:
 
 > ارزیابی ها
 
