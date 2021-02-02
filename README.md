@@ -39,6 +39,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * __[Public section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__
       * __[CV CheckList](MS_CV_CheckList_AR_3991.pdf)__
       * __[General Section CheckList](MS_GeneralSection_CheckList_AR_3991.pdf)__
+      * __[Lesson evaluation summary](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)__
       
 
 
