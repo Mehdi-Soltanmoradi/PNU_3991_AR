@@ -42,7 +42,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
       * __[Lesson evaluation summary](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)__
       
 
-### Group activity RPM
+### Group activity RPM <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/team.gif" align="right"  width="150" />
 
 - [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
 - [pepperdine معرفی درس مشابه در دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
