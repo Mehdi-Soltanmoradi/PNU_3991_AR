@@ -16,7 +16,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * __[Repositories](https://github.com/sultanmoradimehdi?tab=repositories)__
       * __[PNU_3991_AR](https://github.com/sultanmoradimehdi/PNU_3991_AR)__
       
-* __[ME](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)__ 
+* __[ME](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/me)__ 
    * __[Resume](https://sultanmoradimehdi.github.io/resume/)__
    * __[SOP](https://sultanmoradimehdi.github.io/SOP/)__
    * __[Beamer](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)__
