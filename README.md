@@ -34,7 +34,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * __[Bachelor Project](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
    * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
    
-* __[Evaluations RPM](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Evaluations%20RPM)__ 
+* __[Evaluations](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Evaluations%20RPM)__ 
 
    * __[Public section RPM](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Evaluations%20RPM)__
       * __[CV CheckList](MS_CV_CheckList_AR_3991.pdf)__
