@@ -19,9 +19,6 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 * __[ME](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/me)__ 
    * __[Resume](https://sultanmoradimehdi.github.io/resume/)__
    * __[SOP](https://sultanmoradimehdi.github.io/SOP/)__
-   * __[Beamer](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)__
-   * __[LaTex page 7 to 9](https://github.com/sultanmoradimehdi/LaTex/blob/main/Sultan.7-9.pdf)__
-   * __[Assessment](https://github.com/sultanmoradimehdi/Assessment)__
    
 
 * __[Certificates](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="150" />
@@ -35,7 +32,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * __[Bachelor Project](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
    * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
    
-* __[Evaluations](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Evaluations%20RPM)__ 
+* __[Evaluations](https://github.com/sultanmoradimehdi/Assessment)__ 
 
    * __[Public section RPM](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Evaluations%20RPM)__
       * __[CV CheckList](MS_CV_CheckList_AR_3991.pdf)__
