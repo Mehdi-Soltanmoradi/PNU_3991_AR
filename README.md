@@ -1,6 +1,14 @@
 ![banner](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/banner.gif)
 
+[![ME]
+[![Certificates]
+[![project]
+[![internship]
+[![Evaluations]
+[![References]
 
+
+<a name="logo"></a>
 
 ## _PNU_3991_AR_ :wave:
 <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="120" />
