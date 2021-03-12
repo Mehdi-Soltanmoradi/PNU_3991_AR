@@ -8,20 +8,25 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 
 ***
 
-## Mehdi Soltanmoradi :man_technologist: :iran:
+## Mehdi Soltanmoradi :man_technologist:
  
  ## _Table of Contents_ :mag_right:
 
 *  __[GitHub](https://github.com/sultanmoradimehdi)__ :octocat: <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/me.gif" align="right" width="120" />
    * __[Repositories](https://github.com/sultanmoradimehdi?tab=repositories)__
+      *  __[Internship](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship/1322029_02/01_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A%D8%A7%D9%86%20%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF)__
       * __[PNU_3991_AR](https://github.com/sultanmoradimehdi/PNU_3991_AR)__
       
+      
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:      
 * __[ME](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/me)__ 
+
    * __[Resume](https://sultanmoradimehdi.github.io/resume/)__
    * __[SOP](https://sultanmoradimehdi.github.io/SOP/)__
-   
 
-* __[Certificates](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="120" />
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
+* __[Certificates](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates)__:trophy:
+*  <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="120" />
    * [x] ![Jlord Patchwork](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/pch.png)__[Jlord Patchwork](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/patchwork.png)__
    * [x] ![HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/HTML.png)__
    * [x] ![JS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/JS.png)__
@@ -29,18 +34,21 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * [x] ![PHP](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/php.logo.png)__[PHP](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Certificates/PHP.png)__
    * [x] ![CSS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/cs.logo.png)__[CSS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Certificates/CSS.png)__
    * [x] ![SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/sQl.logo.png)__[SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Certificates/SQL.png)__
-   
-* __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
+ 
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:  
+* __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ :checkered_flag:
+* <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
       * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
-   
-* __[Evaluations](https://github.com/sultanmoradimehdi/Assessment)__ 
+      
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:   
+* __[Evaluations](https://github.com/sultanmoradimehdi/Assessment)__ :interrobang:
 
    * __[Public section RPM](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Evaluations%20RPM)__
       * __[CV CheckList](MS_CV_CheckList_AR_3991.pdf)__
       * __[General Section CheckList](MS_GeneralSection_CheckList_AR_3991.pdf)__
       * __[Lesson evaluation summary](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)__
       
-
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 ### Group activity RPM <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/team.gif" align="right"  width="120" />
 
 - [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
@@ -69,6 +77,7 @@ Course
 * _ResearchAndPresentationMethods_
 
 ***
+[:top:](#logo)
 
 ## _Day and hour of lessons_:watch:
 
@@ -78,8 +87,15 @@ Course
 
 
 ***
-__[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ 
-<img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="120" />
+![whatsapp](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/whatsapp.svg)  __[WhatsApp: ](https://wa.me/+989123480525)__ 
 
-_Linkedln:(www.linkedin.com/in/mehdi-soltanmoradi-31aa44170)_
+![telegram](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/telegram.svg)  __[Telegram: @MSC_of_engineering_AI](https://telegram.me/@MSC_of_engineering_AI)__
+
+![gmail](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](mailto:kntu.stu95@gmail.com): kntu.stu95@gmail.com__
+__[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ 
+
+<img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="120" />
+:Linkedln:(www.linkedin.com/in/mehdi-soltanmoradi-31aa44170)
+
+<br><br>
 
