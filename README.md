@@ -8,7 +8,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 
 ***
 
-## مهدی سلطانمرادی
+## Mehdi Soltanmoradi :student:
  
  ## _Table of Contents_ :mag_right:
 
