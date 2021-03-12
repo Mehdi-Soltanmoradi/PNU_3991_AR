@@ -1,11 +1,11 @@
 ![banner](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/banner.gif)
 
 ![ME](https://img.shields.io/badge/ME-yellow)
-![Certificates](https://img.shields.io/badge/ME-yellow)
-![project](https://img.shields.io/badge/ME-yellow)
-![internship](https://img.shields.io/badge/ME-yellow)
-![Evaluations](https://img.shields.io/badge/ME-yellow)
-![References](https://img.shields.io/badge/ME-yellow)
+![Certificates](https://img.shields.io/badge/Certificates-green)
+![project](https://img.shields.io/badge/project-blue)
+![internship](https://img.shields.io/badge/internship-yellow)
+![Evaluations](https://img.shields.io/badge/Evaluations-red)
+![References](https://img.shields.io/badge/References-orange)
 
 
 <a name="logo"></a>
