@@ -70,12 +70,12 @@ Course
 
 ***
 
-## _Day and hour of lessons_
+## _Day and hour of lessons_:watch:
 
 |Course                                  |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:--------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
 |__ResearchAndPresentationMethods__   :clock7: :clock8:|0 - 0|0 - 0|0 - 0|0 - 0  |:zzz:   |:zzz: |0 - 0 |
-|__Bachelor Project__   :clock9: :clock1:  |0 - 0 |0 - 0 |0 - 0 |0 - 0   |:zzz:   |:zzz: |0 - 0  |
+
 
 ***
 __[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ 
