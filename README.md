@@ -3,7 +3,7 @@
 ![ME](https://img.shields.io/badge/ME-yellow)
 ![Certificates](https://img.shields.io/badge/Certificates-green)
 ![project](https://img.shields.io/badge/project-blue)
-![internship](https://img.shields.io/badge/internship-yellow)
+![internship](https://img.shields.io/badge/internship-violet)
 ![Evaluations](https://img.shields.io/badge/Evaluations-red)
 ![References](https://img.shields.io/badge/References-orange)
 
