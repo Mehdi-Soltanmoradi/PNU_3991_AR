@@ -3,7 +3,7 @@
 
 
 ## _PNU_3991_92AR_ :wave:
-<img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="150" />
+<img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="120" />
 Summary of last semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering :computer:.
 
 ***
@@ -31,8 +31,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * [x] ![SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/sQl.logo.png)__[SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Certificates/SQL.png)__
    
 * __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
-   * __[Bachelor Project](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
-   * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
+      * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
    
 * __[Evaluations](https://github.com/sultanmoradimehdi/Assessment)__ 
 
@@ -68,7 +67,6 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
  
 Course
 * _ResearchAndPresentationMethods_
-* _Bachelor Project_
 
 ***
 
