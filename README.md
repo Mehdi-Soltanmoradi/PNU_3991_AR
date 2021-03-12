@@ -89,7 +89,7 @@ Course
 
 ![telegram](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/telegram.svg)  __[Telegram: @MSC_of_engineering_AI](https://telegram.me/@MSC_of_engineering_AI)__
 
-![gmail](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](mail:kntu.stu95@gmail.com): kntu.stu95@gmail.com__
+![gmail](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](kntu.stu95@gmail.com): kntu.stu95@gmail.com__
 
 <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="120" />
 :Linkedln:(www.linkedin.com/in/mehdi-soltanmoradi-31aa44170)
