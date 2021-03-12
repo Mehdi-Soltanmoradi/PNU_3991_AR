@@ -74,7 +74,7 @@ Course
 
 |Course                                  |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
 |:--------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
-|__ResearchAndPresentationMethods__   :clock7: :clock8:|0 - 0|0 - 0|0 - 0|0 - 0  |:zzz:   |:zzz: |0 - 0 |
+|__ResearchAndPresentationMethods__      |0 - 0|0 - 0|0 - 0|0 - 0  |:zzz:   |:zzz: |0 - 0 |
 
 
 ***
