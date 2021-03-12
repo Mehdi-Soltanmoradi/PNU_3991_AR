@@ -1,6 +1,6 @@
 ![banner](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/banner.gif)
 
-[![ME](https://img.shields.io/badge/ME-70-yellow)]
+[![ME](https://img.shields.io/badge/ME-yellow)]
 [![Certificates]
 [![project]
 [![internship]
