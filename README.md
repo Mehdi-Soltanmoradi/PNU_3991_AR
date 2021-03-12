@@ -97,9 +97,9 @@ Course
 
 ![telegram](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/telegram.svg)  __[Telegram: @Soltan1983](https://telegram.me/@Soltan1983)__
 
-![gmail](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](mailto:kntu.stu95@gmail.com): kntu.stu95@gmail.com__
+![gmail](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](mailto:kntu.stu95@gmail.com)__
 
-![linkedin](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/linkedin.png) __[linkedin](https://www.linkedin.com/in/mehdi-soltanmoradi-31aa44170)
+![linkedin](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/linkedin.png) __[linkedin](https://linkedin.com/in/mehdi-soltanmoradi-31aa44170)__
 
 <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="120" />
 
