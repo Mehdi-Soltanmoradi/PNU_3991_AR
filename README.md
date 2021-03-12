@@ -35,8 +35,9 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * [x] ![SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/sQl.logo.png)__[SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Certificates/SQL.png)__
  
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:  
-* __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ :checkered_flag: <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
-      * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
+* __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ :checkered_flag: 
+<img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
+   * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
       
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:   
 * __[Evaluations](https://github.com/sultanmoradimehdi/Assessment)__ :interrobang:
