@@ -35,8 +35,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * [x] ![SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/sQl.logo.png)__[SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Certificates/SQL.png)__
  
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:  
-* __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ :checkered_flag:
-* <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
+* __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ :checkered_flag: <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
       * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
       
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:   
@@ -91,7 +90,6 @@ Course
 ![telegram](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/telegram.svg)  __[Telegram: @MSC_of_engineering_AI](https://telegram.me/@MSC_of_engineering_AI)__
 
 ![gmail](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](mailto:kntu.stu95@gmail.com): kntu.stu95@gmail.com__
-__[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ 
 
 <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="120" />
 :Linkedln:(www.linkedin.com/in/mehdi-soltanmoradi-31aa44170)
