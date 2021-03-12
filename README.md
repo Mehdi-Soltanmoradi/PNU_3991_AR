@@ -12,7 +12,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
  
  ## _Table of Contents_ :mag_right:
 
-*  __[GitHub](https://github.com/sultanmoradimehdi)__ :octocat: <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/me.gif" align="right" width="150" />
+*  __[GitHub](https://github.com/sultanmoradimehdi)__ :octocat: <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/me.gif" align="right" width="120" />
    * __[Repositories](https://github.com/sultanmoradimehdi?tab=repositories)__
       * __[PNU_3991_AR](https://github.com/sultanmoradimehdi/PNU_3991_AR)__
       
@@ -21,7 +21,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * __[SOP](https://sultanmoradimehdi.github.io/SOP/)__
    
 
-* __[Certificates](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="150" />
+* __[Certificates](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="120" />
    * [x] ![Jlord Patchwork](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/pch.png)__[Jlord Patchwork](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/patchwork.png)__
    * [x] ![HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/HTML.png)__
    * [x] ![JS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/JS.png)__
@@ -30,7 +30,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * [x] ![CSS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/cs.logo.png)__[CSS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Certificates/CSS.png)__
    * [x] ![SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/sQl.logo.png)__[SQL](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Certificates/SQL.png)__
    
-* __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="150" />
+* __[Courses](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
    * __[Bachelor Project](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Courses/Bachelor%20Project)__
    * __[ResearchAndPresentationMethods](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
    
@@ -42,7 +42,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
       * __[Lesson evaluation summary](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/Method-of-presenting-scientific-and-technical-materials/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)__
       
 
-### Group activity RPM <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/team.gif" align="right"  width="150" />
+### Group activity RPM <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/team.gif" align="right"  width="120" />
 
 - [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
 - [pepperdine معرفی درس مشابه در دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
@@ -81,7 +81,7 @@ Course
 
 ***
 __[Telegram: @MSC_of_engineering_AI](https://telegram.me/MSC_of_engineering_AI)__ 
-<img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="150" />
+<img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="120" />
 
 _Linkedln:(www.linkedin.com/in/mehdi-soltanmoradi-31aa44170)_
 
