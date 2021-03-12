@@ -25,8 +25,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * __[SOP](https://sultanmoradimehdi.github.io/SOP/)__
 
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
-* __[Certificates](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates)__:trophy:
-*  <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="120" />
+* __[Certificates](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates)__:trophy: <img src="https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="120" />
    * [x] ![Jlord Patchwork](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/pch.png)__[Jlord Patchwork](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/patchwork.png)__
    * [x] ![HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/HTML.png)__
    * [x] ![JS](https://github.com/sultanmoradimehdi/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/JS.png)__
