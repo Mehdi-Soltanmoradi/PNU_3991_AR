@@ -8,7 +8,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 
 ***
 
-## Mehdi Soltanmoradi :man_technologist:
+## Mehdi Soltanmoradi :man_technologist: :iran:
  
  ## _Table of Contents_ :mag_right:
 
@@ -52,7 +52,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 - [ Beamer ساخت اسلاید](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamer.pdf)
 - [ Beamer ارایه شفاهی لاتک](https://github.com/sultanmoradimehdi/Beamer/blob/main/Beamervo.mp4)
 ------------------
-### Groups RPM
+### Groups RPM:diamond_shape_with_a_dot_inside:
     
 1. RPM 
     1. [_BSc-03_مهدی سلطانمرادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/03_%D9%85%D9%87%D8%AF%D9%8A%20%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A)   
