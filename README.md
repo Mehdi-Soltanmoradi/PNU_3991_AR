@@ -8,7 +8,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 
 ***
 
-## Mehdi Soltanmoradi :student:
+## Mehdi Soltanmoradi :man_technologist:
  
  ## _Table of Contents_ :mag_right:
 
