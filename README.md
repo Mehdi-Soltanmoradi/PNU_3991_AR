@@ -30,7 +30,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 
    * __[Resume](https://Mehdi-Soltanmoradi.github.io/resume/)__
    * __[SOP](https://Mehdi-Soltanmoradi.github.io/SOP/)__
-   * __[code](https://github.com/Mehdi-Soltanmoradi/Learn-HTML)__
+   * __[code](https://Mehdi-Soltanmoradi.github.io/Learn-HTML)__
 
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 * __[Certificates](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/tree/main/Certificates)__:trophy: <img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="120" />
