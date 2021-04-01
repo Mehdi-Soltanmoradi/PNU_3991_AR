@@ -97,5 +97,11 @@ Course
 
 <img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="120" />
 
+<svg width="100" height="100">
+    <circle cx="50" cy="50" r="45"
+    stroke="green" stroke-width="4" fill="orange" />
+  Sorry, your browser does not support inline SVG.
+  </svg>
+
 <br><br>
 
