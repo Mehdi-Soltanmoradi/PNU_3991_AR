@@ -28,7 +28,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:      
 * __[ME](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/me)__ 
 
-   * __[Resume](https://Mehdi-Soltanmoradi.github.io/resume/)__
+   * __[Resume](https://mehdi-soltanmoradi.github.io/)__
    * __[SOP](https://Mehdi-Soltanmoradi.github.io/SOP/)__
    * __[code](https://Mehdi-Soltanmoradi.github.io/tree/main/Learn-HTML-main)__
 
@@ -70,7 +70,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 ------------------
 ### Top Languages:diamond_shape_with_a_dot_inside:
     
-[Top Languages]( https://mehdi-soltanmoradi.github.io/Top-Language/)
+[Top Languages](https://mehdi-soltanmoradi.github.io/Top-Language/)
     
 -------------------
 ## _Semester Courses  1399/1400_
