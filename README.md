@@ -87,7 +87,8 @@ Course
 
 
 ***
-<img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="180" />
+<img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="180"/>
+
 ![whatsapp](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/whatsapp.svg)  __[WhatsApp: ](https://wa.me/+989123480525)__ 
 
 ![telegram](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/telegram.svg)  __[Telegram: @Soltan1983](https://telegram.me/@Soltan1983)__
@@ -95,5 +96,6 @@ Course
 ![gmail](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](https://kntu.stu95@gmail.com)__
 
 ![linkedin](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/linkedin.png) __[linkedin](https://linkedin.com/in/mehdi-soltanmoradi-31aa44170)__
-<br><br>
+
+<br>
 
