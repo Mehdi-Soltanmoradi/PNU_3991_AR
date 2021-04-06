@@ -87,7 +87,7 @@ Course
 
 
 ***
-<img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="180"/>
+<img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/net.gif" align="right" width="220"/>
 
 ![whatsapp](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/whatsapp.svg)  __[WhatsApp: ](https://wa.me/+989123480525)__ 
 
