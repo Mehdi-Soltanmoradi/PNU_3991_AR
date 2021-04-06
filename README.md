@@ -70,7 +70,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 ------------------
 ### Top Languages:diamond_shape_with_a_dot_inside:
     
-[Top Languages](https://Mehdi-Soltanmoradi.github.io/soltan/)
+[Top Languages](https://Top-Language.github.io/soltan/)
     
 -------------------
 ## _Semester Courses  1399/1400_
