@@ -34,6 +34,7 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
 
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 * __[Certificates](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/tree/main/Certificates)__:trophy: <img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/contract.gif" align="right"  width="120" />
+
    * [x] ![Jlord Patchwork](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/pch.png)__[Jlord Patchwork](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/tree/main/Certificates/patchwork.png)__
    * [x] ![HTML](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/html.logo.png)__[HTML](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/HTML.png)__
    * [x] ![JS](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/sultanmoradimehdi/PNU_3991_AR/tree/main/Certificates/JS.png)__
@@ -42,7 +43,8 @@ Summary of last semester activities in Payame Noor University of Iran, North Teh
    * [x] ![CSS](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/cs.logo.png)__[CSS](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/Certificates/CSS.png)__
    * [x] ![SQL](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/sQl.logo.png)__[SQL](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/Certificates/SQL.png)__
  
-:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:  
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
+
 * __[Courses](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/tree/main/Courses)__ :checkered_flag: <img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/search.gif" align="right" width="120" />
    * __[ResearchAndPresentationMethods](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/tree/main/Method-of-presenting-scientific-and-technical-materials)__
       
