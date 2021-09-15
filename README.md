@@ -1,5 +1,5 @@
 ![banner](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/banner.gif)
-<img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/qr.svg" align="right" width="200"/>
+<img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/qr.svg" align="right" width="180"/>
 
 ![ME](https://img.shields.io/badge/ME-yellow)
 ![Certificates](https://img.shields.io/badge/Certificates-green)
