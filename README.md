@@ -1,5 +1,7 @@
 ![banner](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/banner.gif)
 
+<img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/svg/qr.svg" align="right" width="220"/>
+
 ![ME](https://img.shields.io/badge/ME-yellow)
 ![Certificates](https://img.shields.io/badge/Certificates-green)
 ![project](https://img.shields.io/badge/project-blue)
@@ -12,7 +14,6 @@
 
 ## _PNU_3991_AR_ :wave:
 <img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="120" />
-<img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/svg/qr.svg" align="right" width="220"/>
 Summary of last semester activities in Payame Noor University of Iran, North Tehran Branch in the field of computer-software engineering :computer:.
 
 ***
