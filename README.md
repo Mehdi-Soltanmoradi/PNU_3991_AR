@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?Mehdi-Soltanmoradi=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?Mehdi-Soltanmoradi=Mehdi-Soltanmoradi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![banner](https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/banner.gif)
 <img src="https://github.com/Mehdi-Soltanmoradi/PNU_3991_AR/blob/main/gif/qr.svg" align="right" width="180"/>
